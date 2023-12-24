@@ -1,9 +1,9 @@
 # 👋 Hey there, I'm Enio Santana!
+- **🇧🇷 Brazil, Bahia, Salvador**.
 
 ## About Me:
 - **💡 I like to try stuff out**: I love diving into new experiences, whether it's exploring a new coding technique or a novel approach to problem-solving. Quick, bold trials are my way of learning, embracing both successes and stumbles.
 - **📊 Data-Driven at Heart**: Numbers have a unique way of telling stories. Transforming complex datasets into insights and using analytics to inform decisions is where I shine. For me, data reveals truths and guides the way.
-- **🇧🇷 Brazil, Bahia, Salvador**
 
 ## My Toolbox:
 - 📊 Statistical analysis and data science.
@@ -28,11 +28,12 @@
 ##
 
 # 👋 Oi, sou Enio Santana!
+- **🇧🇷 Brasil, Bahia, Salvador**.
 
 ## Sobre Mim:
 - **💡 Eu gosto de experimentar**: Adoro explorar novas técnicas de programação e soluções inovadoras para problemas. Aprendo muito com tentativas rápidas e ousadas, valorizando cada acerto e cada erro.
 - **📊 Movido a Dados**: Transformar conjuntos de dados complexos em insights valiosos e usar a análise para tomar decisões acertadas é onde brilho. Para mim, os dados revelam verdades e indicam o caminho.
-- **🇧🇷 Brasil, Bahia, Salvador**
+
 
 ## Minhas Ferramentas:
 - 📊 Análise estatística e ciência de dados.
