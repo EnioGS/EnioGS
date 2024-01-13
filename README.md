@@ -5,7 +5,7 @@
 - **📊 Data-Driven at Heart**: Numbers have a unique way of telling stories. Transforming complex datasets into insights and using analytics to inform decisions is where I shine. For me, data reveals truths and guides the way.
 
 ## Academic Research:
-- 📚 QA engineering, automated software engineering, test smell detection, and applications of LLMs.
+- 📚 Computer vision, AI aplications, automated software engineering, data science and related topics
 
 ## Contact info:
 - 📫 Email: eniogs5@gmail.com
@@ -25,7 +25,7 @@
 - **📊 Movido a Dados**: Transformar conjuntos de dados complexos em insights valiosos e usar a análise para tomar decisões acertadas é onde brilho. Para mim, os dados revelam verdades e indicam o caminho.
 
 ## Pesquisa Acadêmica:
-- 📚 Engenharia de QA, engenharia de software automatizada, detecção e refatoração de test smells, e aplicações de LLMs.
+- 📚 Visão computacional, aplicações de IA, engenharia de software automatizada, data science e tópicos relacionados
 
 ## Contatos:
 - 📫 Email: eniogs5@gmail.com
@@ -33,14 +33,3 @@
 
 ## Curiosidade:
 - 📺 Participei de um projeto inovador de impressão 3D que foi destaque no Jornal Nacional! [Veja aqui](https://g1.globo.com/jornal-nacional/noticia/2022/12/24/jovens-usam-tecnologias-simples-para-buscar-solucoes-inovadoras-e-que-podem-salvar-vidas.ghtml).
-
-##
-
-<div align="left">
-  <a href="https://github.com/EnioGS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EnioGS&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</div>
-
-  
-
-##
